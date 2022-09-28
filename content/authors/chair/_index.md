@@ -5,6 +5,9 @@ title: Christian Damsgård Jensen
 # Is this the primary user of the site?
 superuser: false
 
+# Organisational hierarchy for person ordering
+weight: 1
+
 # Role/position
 role: Chair (term 1 of 2)
 

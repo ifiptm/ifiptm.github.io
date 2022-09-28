@@ -5,6 +5,9 @@ title: Davide Ceolin
 # Is this the primary user of the site?
 superuser: false
 
+# Organisational hierarchy for person ordering
+weight: 2
+
 # Role/position
 role: Vice Chair (term 1 of 2)
 

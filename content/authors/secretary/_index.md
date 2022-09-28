@@ -5,6 +5,9 @@ title: Anirban Basu
 # Is this the primary user of the site?
 superuser: true
 
+# Organisational hierarchy for person ordering
+weight: 3
+
 # Role/position
 role: Secretary (term 3 of unlimited)
 
