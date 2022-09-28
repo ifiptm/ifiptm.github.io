@@ -7,7 +7,6 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  IFIP Working Group 11.11
   Trust Management
 hero_media: welcome.jpg
 design:
@@ -18,6 +17,4 @@ design:
   css_class:
 ---
 
-<br>
-
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The IFIP Working Group 11.11 aims to provide a forum for cross-disciplinary investigation of the application of trust as a means of establishing security and confidence in the global computing infrastructure, recognizing trust as a crucial enabler for meaningful and mutual beneficial interactions. The working group will bring together researchers with an interest in complementary aspects of trust, from both technology oriented disciplines and the field of law, social sciences and philosophy. In this way the working group will provide the common background necessary for advancing towards an in-depth understanding of the fundamental issues and challenges in the area of trust management in open systems.
