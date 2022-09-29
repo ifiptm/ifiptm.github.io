@@ -1,8 +1,10 @@
 ---
 title: 'An example journal article'
 authors:
-  - admin
-  - Robert Ford
+  - secretary
+  - chair
+  - vchair1
+  - vchair2
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'

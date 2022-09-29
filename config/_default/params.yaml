@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day:
+  theme_day: nord
   theme_night: nord
   font: roboto
   font_size: M
@@ -16,10 +16,10 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    local_business_type: 'Non-Profit'
+    org_name: 'IFIPTM'
+    description: 'IFIP Working Group 11.11 on Trust Management'
+    twitter: 'ifiptm'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,7 +35,7 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: false
+    show_day_night: true
     show_search: true
     highlight_active_link: false
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} IFIP WG 11.11 Trust Management.'
+    notice: '© {year} IFIP Working Group 11.11 Trust Management.'
     license:
       enable: false
       allow_derivatives: false
@@ -53,8 +53,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'January 2, 2006'
+  time_format: '15:04'
   address_format: en-gb
 
 # Site features

@@ -1,8 +1,9 @@
 ---
 title: 'An example conference paper'
 authors:
-  - admin
-  - Robert Ford
+  - chair
+  - Someone else
+  - Another person
 date: '2013-07-01T00:00:00Z'
 doi: ''
 
