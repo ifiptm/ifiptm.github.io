@@ -5,15 +5,15 @@
 
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: Announcement
-hero_media: welcome.jpg
+weight: 1 # Order that this section will appear.
+title: IFIPTM 2023 #Announcement
+# hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: "1"
   # Add custom styles
   css_style:
   css_class:
 ---
 
-This section is for announcements and can be removed when no longer necessary!
+Add information about the latest conference.

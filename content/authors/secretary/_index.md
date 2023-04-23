@@ -19,7 +19,7 @@ organizations:
     url: "https://profiles.sussex.ac.uk/p134568-anirban-basu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Senior Researcher (Hitachi, Ltd., Japan), Honorary Research Fellow (University of Sussex, UK)
+bio: Senior Researcher (Hitachi, Ltd., Japan), Honorary Research Fellow (University of Sussex, UK), Adjunct Professor (OntarioTech University, Canada)
 
 interests:
   - Computational trust

@@ -1,51 +1,52 @@
 ---
-title: 'An example conference paper'
+title: "Factsheet 2023"
 authors:
+  - secretary
   - chair
-  - Someone else
-  - Another person
-date: '2013-07-01T00:00:00Z'
-doi: ''
+  - vchair1
+  - vchair2
+date: "2023-04-19T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: International Federation for Information Processing Technical Committee 11
+publication_short: IFIP TC 11
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: An annually updated fact sheet of the Working Group 11.11 on Trust Management.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Source Themes
 featured: true
 
 links:
-  - name: Custom Link
-    url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+  - name: IFIP TC 11 Working Groups
+    url: https://www.ifiptc11.org/working-groups
+url_pdf: https://github.com/ifiptm/factsheet/releases/download/v.20230419/2023.pdf
+# url_code: "#"
+# url_dataset: "#"
+# url_poster: "#"
+# url_project: ""
+# url_slides: ""
+# url_source: "#"
+# url_video: "#"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/xG8IQMqMITM)"
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -64,8 +65,10 @@ projects:
 slides:
 ---
 
+<!--
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+-->
