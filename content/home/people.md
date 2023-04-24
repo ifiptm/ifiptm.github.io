@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: Who are we?
-subtitle:
+subtitle: The people in this working group
 
 content:
   # Choose which groups/teams of users to display.
@@ -20,7 +20,9 @@ content:
     - Internal Officers
     - Members
 design:
+  columns: "2"
   show_interests: false
   show_role: true
   show_social: true
+  show_organizations: false
 ---
