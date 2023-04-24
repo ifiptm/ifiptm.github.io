@@ -21,20 +21,22 @@ publication_types: ["4"]
 publication: International Federation for Information Processing Technical Committee 11
 publication_short: IFIP TC 11
 
-abstract: An annually updated fact sheet of the Working Group 11.11 on Trust Management.
+# abstract: An annually updated factsheet of the Working Group 11.11 on Trust Management.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Source Themes
+  - Factsheet
+  - Report
+  - Administrative
 featured: true
 
 links:
   - name: IFIP TC 11 Working Groups
     url: https://www.ifiptc11.org/working-groups
 url_pdf: https://github.com/ifiptm/factsheet/releases/download/v.20230419/2023.pdf
-# url_code: "#"
+url_code: "https://github.com/ifiptm/factsheet/blob/main/2023.md"
 # url_dataset: "#"
 # url_poster: "#"
 # url_project: ""
@@ -72,3 +74,5 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 
 Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
 -->
+
+An annually updated factsheet of the Working Group 11.11 on Trust Management.

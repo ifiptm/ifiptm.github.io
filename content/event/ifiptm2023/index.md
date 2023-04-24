@@ -25,14 +25,14 @@ all_day: false
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: [Conference, Annual Conference, Annual Event]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
-  focal_point: Right
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/3aVlWP-7bg8)"
+  focal_point: ""
 
 url_code: ""
 url_pdf: ""
