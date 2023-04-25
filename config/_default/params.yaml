@@ -61,10 +61,15 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
       - latex
+      - c
+      - rust
+      - cpp
+      - java
+      - javascript
   math:
     enable: true
   privacy_pack:

@@ -6,11 +6,11 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: Summary #Announcement
-subtitle: Mission and aims
+title: Working Group Charter
+subtitle:
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: "2"
+  columns: "1"
   # Add custom styles
   css_style:
   css_class:
@@ -29,3 +29,15 @@ Working Group 11.11 aims to provide a forum for cross-disciplinary investigation
 The main membership will most likely be specialized researchers, both from universities and company laboratories. Government organizations and IFIP member societies and their members will be the main users of the results of the group.
 
 Working Group 11.11 has a link to the area of other groups, both inside and outside IFIP and the group will seek actively for close cooperation with these groups.
+
+## Scope
+
+The scope of the WG 11.11 are (non-exhaustive and non-exclusive):
+
+- semantics and models for security and trust;
+- trust management architectures, mechanisms and policies;
+- trust in e-commerce, e-service, e-government;
+- trust and privacy (link with WG 9.6 / 11.7);
+- identity and trust management (link with WG 11.6);
+- trust securing digital as well as physical assets; and
+- social and legal aspects of trust (link with WG 9.6 / 11.7).

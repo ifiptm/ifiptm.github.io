@@ -6,14 +6,15 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 1 # Order that this section will appear.
-title: IFIPTM 2023 #Announcement
-# hero_media: welcome.jpg
+title:
+subtitle:
+# hero_media: logo.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: "1"
+  columns: "2"
   # Add custom styles
   css_style:
   css_class:
 ---
 
-Add information about the latest conference.
+![info](logo.png)

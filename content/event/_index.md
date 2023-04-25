@@ -1,5 +1,5 @@
 ---
-title: Past and Upcoming Events
+title: Reverse chronological list of events
 
 # Listing view
 view: compact
