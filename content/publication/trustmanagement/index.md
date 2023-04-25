@@ -1,9 +1,9 @@
 ---
-title: "Trust Management XIII"
+title: "Trust Management"
 subtitle: IFIP Advances in Information and Communication Technology
 authors:
-date: "2019-10-26T00:00:00Z"
-doi: "10.1007/978-3-030-33716-2"
+date: "2007-07-30T00:00:00Z"
+doi: "10.1007/978-0-387-73655-6"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -15,8 +15,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the IFIPTM 2019: 13th IFIP WG 11.11 International Conference, IFIPTM 2019, Copenhagen, Denmark, July 17-19, 2019"
-publication_short: IFIPTM 2019 Proceedings
+publication: "Proceedings of IFIPTM 2007: Joint iTrust and PST Conferences on Privacy, Trust Management and Security, July 30-August 2, 2007, New Brunswick, Canada"
+publication_short: IFIPTM 2007 Proceedings
 
 # abstract: An annually updated factsheet of the Working Group 11.11 on Trust Management.
 
@@ -72,4 +72,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
 -->
 
-Editors: Weizhi Meng, Piotr Cofta, Christian Damsgård Jensen and Tyrone Grandison
+Editors: Sandro Etalle and Stephen Marsh
