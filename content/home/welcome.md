@@ -11,10 +11,12 @@ subtitle:
 # hero_media: logo.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: "2"
+  columns: "1"
   # Add custom styles
   css_style:
   css_class:
 ---
 
-![info](logo.png)
+<!-- ![info](logo.png) -->
+
+Welcome to the new and updated website of the IFIP Working Group 11.11 Trust Management.
