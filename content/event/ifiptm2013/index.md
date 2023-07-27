@@ -1,23 +1,23 @@
 ---
-title: 6th IFIP WG 11.11 International Conference
+title: 7th IFIP WG 11.11 International Conference
 
 event:
 event_url:
 
-location: Sardar Vallabhbhai National Institute of Technology (SVNIT)
+location: University of Malaga
 address:
   street:
-  city: Surat
-  region: Gujarat
+  city: Malaga
+  region: Malaga
   postcode:
-  country: India
+  country: Spain
 
 summary: The annual conference of the IFIPTM.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2012-05-21T08:00:00Z"
-date_end: "2012-05-25T17:00:00Z"
+date: "2013-06-03T08:00:00Z"
+date_end: "2013-06-07T17:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -35,9 +35,9 @@ image:
 
 links:
   - name: IFIP Digital Library
-    url: https://dl.ifip.org/db/conf/ifiptm/ifiptm2012/index.html
+    url: https://dl.ifip.org/db/conf/ifiptm/ifiptm2013/index.html
   - name: DBLP
-    url: https://dblp.org/db/conf/ifiptm/ifiptm2012.html
+    url: https://dblp.org/db/conf/ifiptm/ifiptm2013.html
 url_code: ""
 url_pdf: ""
 url_slides: ""
