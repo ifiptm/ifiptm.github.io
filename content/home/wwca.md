@@ -6,7 +6,7 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 15 # Order that this section will appear.
-title: William Winsborough Commemorative Address
+title: William Winsborough Commemorative Award
 subtitle:
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

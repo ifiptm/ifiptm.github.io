@@ -7,6 +7,9 @@ main:
   - name: Charter
     url: '#summary'
     weight: 5
+  - name: Winsborough Award
+    url: '#wwca'
+    weight: 15
   - name: People
     url: '#people'
     weight: 20
