@@ -1,23 +1,23 @@
 ---
-title: 8th IFIP WG 11.11 International Conference
+title: 9th IFIP WG 11.11 International Conference
 
 event:
 event_url:
 
-location: Nangyang Technological University (NTU)
+location: University of Hamburg
 address:
   street:
-  city: Yunnan Garden Campus
-  region: West Region of Singapore
+  city: Hamburg
+  region: Hamburg Metropolitan Region
   postcode:
-  country: Singapore
+  country: Germany
 
 summary: The annual conference of the IFIPTM.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2014-07-07T08:00:00Z"
-date_end: "2014-07-10T17:00:00Z"
+date: "2015-05-26T08:00:00Z"
+date_end: "2015-05-28T17:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -35,9 +35,9 @@ image:
 
 links:
   - name: Proceedings DOI
-    url: https://doi.org/10.1007/978-3-662-43813-8
+    url: https://doi.org/10.1007/978-3-319-18491-3
   - name: DBLP
-    url: https://dblp.org/db/conf/ifiptm/ifiptm2014.html
+    url: https://dblp.org/db/conf/ifiptm/ifiptm2015.html
 url_code: ""
 url_pdf: ""
 url_slides: ""
