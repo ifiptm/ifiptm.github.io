@@ -1,39 +1,43 @@
 ---
-title: IFIP WG 11.11 International Conference
+title: 8th IFIP WG 11.11 International Conference
 
-event: Official website
-event_url: https://event.cwi.nl/ifiptm2023/
+event:
+event_url:
 
-location: Centrum Wiskunde & Informatica (CWI)
+location: Nangyang Technological University (NTU)
 address:
-  street: Science Park 123
-  city: Amsterdam
-  region:
-  postcode: "1098 XG"
-  country: The Netherlands
+  street:
+  city: Singapore
+  region: Singapore
+  postcode:
+  country: Singapore
 
 summary: The annual conference of the IFIPTM.
-# abstract: The 14th IFIP International Conference on Trust Management (IFIPTM 2023) will be held in Amsterdam, The Netherlands from 16 to 20 October 2023.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-10-18T08:00:00Z"
-date_end: "2023-10-20T17:00:00Z"
+date: "2014-07-07T08:00:00Z"
+date_end: "2014-07-10T17:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-07-27T00:00:00Z"
 
 authors: []
 tags: [Conference, Annual Conference, Annual Event]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/3aVlWP-7bg8)"
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jR4Zf-riEjI)"
   focal_point: ""
 
+links:
+  - name: Proceedings DOI
+    url: https://doi.org/10.1007/978-3-662-43813-8
+  - name: DBLP
+    url: https://dblp.org/db/conf/ifiptm/ifiptm2014.html
 url_code: ""
 url_pdf: ""
 url_slides: ""
