@@ -1,10 +1,10 @@
 ---
 title: "Annual Report 2023"
 authors:
-  - secretary
+  - chair
   - vchair1
   - vchair2
-  - chair
+  - secretary
 #author_notes:
 #  - "Equal contribution"
 #  - "Equal contribution"
